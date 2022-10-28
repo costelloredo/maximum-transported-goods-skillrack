@@ -1,4 +1,4 @@
-# maximum-transported-goods-skillrack
+# maximum-goods-transported-skillrack
 # the code in c language
 #include <stdio.h>
 #include <stdlib.h>
